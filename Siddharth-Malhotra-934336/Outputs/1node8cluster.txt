@@ -1,0 +1,29 @@
+In block
+C2: 175838 posts
+B2: 22062 posts
+C3: 17184 posts
+B3: 5815 posts
+C4: 4145 posts
+B1: 3311 posts
+C5: 2613 posts
+D3: 2269 posts
+D4: 1889 posts
+C1: 1522 posts
+B4: 900 posts
+D5: 717 posts
+A2: 479 posts
+A3: 363 posts
+A1: 262 posts
+A4: 85 posts
+In row
+C: 201302 posts
+B: 32088 posts
+D: 4875 posts
+A: 1189 posts
+In column
+2: 198379 posts
+3: 25631 posts
+4: 7019 posts
+1: 5095 posts
+5: 3330 posts
+Time: 45.950000 
